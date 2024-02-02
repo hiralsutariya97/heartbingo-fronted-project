@@ -1,0 +1,3 @@
+2024-01-31 17:01:974 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2024-01-31 17:01:974 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2024-01-31 17:01:431 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 497 fonts
